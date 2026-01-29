@@ -1,0 +1,10 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 3px;
+    padding: 2px;
+}
+header {
+    background-color: beige;
+    color: azure;
+    padding:5px ;
+}
